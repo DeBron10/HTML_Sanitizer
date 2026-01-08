@@ -1,6 +1,8 @@
 <img width="1439" height="615" alt="image" src="https://github.com/user-attachments/assets/02efc0d2-16ae-486f-90d2-8eae2ec848e7" /># HTML_Sanitizer
 Checking Ganss.XSS for .NET Framework 4.6.1
 
+#Install-Package HtmlSanitizer -Version 5.0.372
+
 Short answer: **YES — this will satisfy XSS findings in VAPT**
 Long answer: **YES, if (and only if) you follow a few important rules** 👇
 
